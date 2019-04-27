@@ -1,0 +1,19 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project 'extranew1'" />
+    <option name="defaultScopeName" value="Project 'extranew1'" />
+    <option name="SEARCH_SCOPE" value="Project 'extranew1'" />
+    <option name="FILE_MASK" value="*" />
+    <mask>*.properties</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.as</mask>
+    <mask>*.mxml</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.js</mask>
+    <mask>*.py</mask>
+    <mask>*</mask>
+  </component>
+</application>

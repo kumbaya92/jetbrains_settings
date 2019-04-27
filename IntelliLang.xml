@@ -1,0 +1,20 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="HTML" injector-id="xml">
+      <display-name>div</display-name>
+      <place disabled="true"><![CDATA[xmlTag().withLocalName(string().equalTo("div")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
+    </injection>
+    <injection language="HTML" injector-id="xml">
+      <display-name>img/@srcset</display-name>
+      <place disabled="true"><![CDATA[xmlAttribute().withLocalName(string().equalTo("srcset")).withParent(xmlTag().withLocalName(string().equalTo("img")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="JavaScript" injector-id="xml">
+      <display-name>script</display-name>
+      <place disabled="true"><![CDATA[xmlTag().withLocalName(string().equalTo("script")).withNamespace(string().equalTo("http://www.w3.org/1999/xhtml"))]]></place>
+    </injection>
+    <injection language="JavaScript" injector-id="xml">
+      <display-name>script/@src</display-name>
+      <place disabled="true"><![CDATA[xmlAttribute().withLocalName(string().equalTo("src")).withParent(xmlTag().withLocalName(string().equalTo("script")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+  </component>
+</application>

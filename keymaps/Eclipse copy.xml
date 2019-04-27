@@ -1,0 +1,78 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="ActivityTracker-Popup">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
+  <action id="CloseActiveTab" />
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift ctrl f4" />
+  </action>
+  <action id="CloseAllUnpinnedEditors">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
+  <action id="CodeHistoryMiningPopup">
+    <keyboard-shortcut first-keystroke="shift alt h" />
+  </action>
+  <action id="CodeHistoryMiningRunScript">
+    <keyboard-shortcut first-keystroke="shift alt e" />
+  </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift f9" />
+  </action>
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="Django.RunManageTaskAction">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
+  <action id="EditorToggleUseSoftWraps">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f3" />
+  </action>
+  <action id="GotoAction" />
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="IntroduceField" />
+  <action id="MarkAsOriginalTypeAction">
+    <keyboard-shortcut first-keystroke="ctrl alt 7" />
+  </action>
+  <action id="MarkAsPlainTextAction">
+    <keyboard-shortcut first-keystroke="ctrl alt 6" />
+  </action>
+  <action id="MethodHierarchy" />
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="PinActiveTab">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+  </action>
+  <action id="ShowReformatFileDialog">
+    <keyboard-shortcut first-keystroke="shift ctrl alt l" />
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
+  <action id="ShowUsages" />
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="Uml.ShowDiff" />
+</keymap>

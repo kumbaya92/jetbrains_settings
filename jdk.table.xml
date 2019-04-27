@@ -1,0 +1,674 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.3 (/usr/bin/python2.7)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.16" />
+      <homePath value="/usr/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/dist-packages" type="simple" />
+            <root url="file://$USER_HOME$/src/src/django-nested-inlines" type="simple" />
+            <root url="file:///usr/lib/python2.7/dist-packages" type="simple" />
+            <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1247972723" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (dosugov_com)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.5rc1" />
+      <homePath value="/var/deb_smb/.virtualenvs/dosugov_com/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///var/deb_smb/.virtualenvs/dosugov_com/lib/python3.6" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/dosugov_com/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/dosugov_com/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1250950720" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (milanaagency)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.5rc1" />
+      <homePath value="/var/deb_smb/.virtualenvs/milanaagency/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///var/deb_smb/.virtualenvs/milanaagency/lib/python3.6" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/milanaagency/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/milanaagency/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-375895846" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (rabotadosug_com_new)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.5rc1" />
+      <homePath value="/var/deb_smb/.virtualenvs/rabotadosug_com_new/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///var/deb_smb/.virtualenvs/rabotadosug_com_new/lib/python3.6" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/rabotadosug_com_new/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/rabotadosug_com_new/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1322755631" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (rabotagirls_com_new)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.5rc1" />
+      <homePath value="/var/deb_smb/.virtualenvs/rabotagirls_com_new/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///var/deb_smb/.virtualenvs/rabotagirls_com_new/lib/python3.6" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/rabotagirls_com_new/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/rabotagirls_com_new/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1768057746" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (intim)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.6" />
+      <homePath value="/var/deb_smb/.virtualenvs/intim/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///var/deb_smb/.virtualenvs/intim/lib/python3.6" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/intim/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/intim/lib/python3.6/site-packages" type="simple" />
+            <root url="jar:///var/deb_smb/.virtualenvs/intim/lib/python3.6/site-packages/setuptools-28.8.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1169972336" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (molly_ru)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.5rc1" />
+      <homePath value="/var/deb_smb/.virtualenvs/molly_ru/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///var/deb_smb/.virtualenvs/molly_ru/lib/python3.6" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/molly_ru/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/molly_ru/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/2009443512" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (massazhka)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15" />
+      <homePath value="/var/deb_smb/.virtualenvs/massazhka/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///var/deb_smb/.virtualenvs/massazhka/lib/python2.7" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/massazhka/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/massazhka/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/massazhka/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1570748562" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (satel)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.16" />
+      <homePath value="/var/deb_smb/.virtualenvs/satel/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///var/deb_smb/.virtualenvs/satel/lib/python2.7" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/satel/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/satel/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/satel/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1014177162" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (restyling)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.6" />
+      <homePath value="/var/deb_smb/.virtualenvs/restyling/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///var/deb_smb/.virtualenvs/restyling/lib/python3.6" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/restyling/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/restyling/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-2108028888" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (intimcity_ru)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15+" />
+      <homePath value="/var/deb_smb/.virtualenvs/intimcity_ru/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///var/deb_smb/.virtualenvs/intimcity_ru/lib/python2.7" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/intimcity_ru/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/intimcity_ru/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/intimcity_ru/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1552009119" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (sitemaps)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15+" />
+      <homePath value="/var/deb_smb/.virtualenvs/sitemaps/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///var/deb_smb/.virtualenvs/sitemaps/lib/python2.7" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/sitemaps/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/sitemaps/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/sitemaps/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1447835163" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (gd1)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.2" />
+      <homePath value="/var/deb_smb/.virtualenvs/gd1/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///var/deb_smb/.virtualenvs/gd1/lib/python3.7" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/gd1/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/gd1/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1828988975" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (intimcity_com)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.2" />
+      <homePath value="/var/deb_smb/.virtualenvs/intimcity_com/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///var/deb_smb/.virtualenvs/intimcity_com/lib/python3.7" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/intimcity_com/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/intimcity_com/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/329880739" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (dosug97)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15+" />
+      <homePath value="/var/deb_smb/.virtualenvs/dosug97/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///var/deb_smb/.virtualenvs/dosug97/lib/python2.7" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/dosug97/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/dosug97/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/dosug97/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1715365333" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (dosug197)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.2+" />
+      <homePath value="/var/deb_smb/.virtualenvs/dosug197/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///var/deb_smb/.virtualenvs/dosug197/lib/python3.7" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/dosug197/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/dosug197/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-2146178834" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (superrabota_su)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.2+" />
+      <homePath value="/var/deb_smb/.virtualenvs/superrabota_su/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///var/deb_smb/.virtualenvs/superrabota_su/lib/python3.7" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/superrabota_su/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/superrabota_su/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-824128570" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (nevamodels_net)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.2+" />
+      <homePath value="/var/deb_smb/.virtualenvs/nevamodels_net/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///var/deb_smb/.virtualenvs/nevamodels_net/lib/python3.7" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/nevamodels_net/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/nevamodels_net/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/2140670553" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (rabotadosug_ru)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.2+" />
+      <homePath value="/var/deb_smb/.virtualenvs/rabotadosug_ru/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///var/deb_smb/.virtualenvs/rabotadosug_ru/lib/python3.7" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/rabotadosug_ru/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/rabotadosug_ru/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/969497202" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (mosdosug)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.16rc1" />
+      <homePath value="/var/deb_smb/.virtualenvs/mosdosug/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///var/deb_smb/.virtualenvs/mosdosug/lib/python2.7" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/mosdosug/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/mosdosug/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/mosdosug/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/577729018" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (belochki)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.2+" />
+      <homePath value="/var/deb_smb/.virtualenvs/belochki/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///var/deb_smb/.virtualenvs/belochki/lib/python3.7" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/belochki/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/belochki/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-293714726" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (gd2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.2+" />
+      <homePath value="/var/deb_smb/.virtualenvs/gd2/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///var/deb_smb/.virtualenvs/gd2/lib/python3.7" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/gd2/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/gd2/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1958071694" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (gd3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3rc1" />
+      <homePath value="/var/deb_smb/.virtualenvs/gd3/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///var/deb_smb/.virtualenvs/gd3/lib/python3.7" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/gd3/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/gd3/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/2087154413" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (gd4)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3rc1" />
+      <homePath value="/var/deb_smb/.virtualenvs/gd4/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///var/deb_smb/.virtualenvs/gd4/lib/python3.7" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/gd4/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file:///var/deb_smb/.virtualenvs/gd4/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-2078730164" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
