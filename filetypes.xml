@@ -1,0 +1,29 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*$py.class;*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern=".bashrc" type="Bash" />
+      <mapping pattern=".bash_functions" type="Bash" />
+      <mapping pattern="backup" type="Bash" />
+      <mapping pattern=".bash_aliases" type="Bash" />
+      <mapping pattern="nodejs" type="Bash" />
+      <mapping pattern=".profile" type="Bash" />
+      <mapping pattern="Bash_aliases" type="Darcs file" />
+      <mapping pattern="bash_profile" type="Darcs file" />
+      <mapping pattern="bash-profile" type="Darcs file" />
+      <mapping ext="bak" type="HTML" />
+      <mapping pattern="*supervisor.conf" type="Ini" />
+      <mapping ext="conf" type="Ini" />
+      <mapping ext="jinja" type="Jinja2" />
+      <mapping ext="php" type="PHP" />
+      <mapping pattern="uwsgi_params" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping pattern="std_utils" type="Python" />
+      <mapping pattern=".pythonstartup" type="Python" />
+      <mapping ext="wsgi" type="Python" />
+      <mapping pattern="Pipfile.lock" type="TOML file" />
+      <mapping pattern="*nginx.conf" type="nginx file type" />
+    </extensionMap>
+  </component>
+</application>
