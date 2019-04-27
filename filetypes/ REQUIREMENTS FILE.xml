@@ -10,7 +10,7 @@
     <keywords ignore_case="false" />
   </highlighting>
   <extensionMap>
-    <mapping pattern="requirements.txt" />
     <mapping pattern="REQUIREMENTS" />
+    <mapping pattern="requirements.txt" />
   </extensionMap>
 </filetype>
