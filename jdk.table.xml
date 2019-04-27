@@ -55,7 +55,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="/var/deb_smb/dosugov_com" />
     </jdk>
     <jdk version="2">
       <name value="Python 3.6 (milanaagency)" />
@@ -82,7 +82,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="/var/deb_smb/milanaagency" />
     </jdk>
     <jdk version="2">
       <name value="Python 3.6 (rabotadosug_com_new)" />
@@ -112,7 +112,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="/var/deb_smb/rabotadosug_com_new" />
     </jdk>
     <jdk version="2">
       <name value="Python 3.6 (rabotagirls_com_new)" />
@@ -142,7 +142,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="/var/deb_smb/rabotagirls_com_new" />
     </jdk>
     <jdk version="2">
       <name value="Python 3.6 (intim)" />
@@ -170,7 +170,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="/var/deb_smb/intim" />
     </jdk>
     <jdk version="2">
       <name value="Python 3.6 (molly_ru)" />
@@ -197,7 +197,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="/var/deb_smb/molly_ru" />
     </jdk>
     <jdk version="2">
       <name value="Python 2.7 (massazhka)" />
@@ -226,7 +226,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="/var/deb_smb/massazhka" />
     </jdk>
     <jdk version="2">
       <name value="Python 2.7 (satel)" />
@@ -255,7 +255,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="/var/deb_smb/satel" />
     </jdk>
     <jdk version="2">
       <name value="Python 3.6 (restyling)" />
@@ -282,7 +282,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="/var/deb_smb/restyling" />
     </jdk>
     <jdk version="2">
       <name value="Python 2.7 (intimcity_ru)" />
@@ -311,7 +311,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="/var/deb_smb/intimcity_ru" />
     </jdk>
     <jdk version="2">
       <name value="Python 2.7 (sitemaps)" />
@@ -340,7 +340,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="/var/deb_smb/sitemaps" />
     </jdk>
     <jdk version="2">
       <name value="Python 3.6 (gd1)" />
@@ -367,7 +367,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="/var/deb_smb/gd1" />
     </jdk>
     <jdk version="2">
       <name value="Python 3.7 (intimcity_com)" />
@@ -394,7 +394,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="/var/deb_smb/intimcity_com" />
     </jdk>
     <jdk version="2">
       <name value="Python 2.7 (dosug97)" />
@@ -423,7 +423,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="/var/deb_smb/dosug97" />
     </jdk>
     <jdk version="2">
       <name value="Python 3.7 (dosug197)" />
@@ -450,7 +450,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="/var/deb_smb/workspace/dosug197" />
     </jdk>
     <jdk version="2">
       <name value="Python 3.7 (superrabota_su)" />
@@ -477,7 +477,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="/var/deb_smb/workspace/superrabota_su" />
     </jdk>
     <jdk version="2">
       <name value="Python 3.7 (nevamodels_net)" />
@@ -504,7 +504,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="/var/deb_smb/workspace/nevamodels_net" />
     </jdk>
     <jdk version="2">
       <name value="Python 3.7 (rabotadosug_ru)" />
@@ -531,7 +531,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="/var/deb_smb/workspace/rabotadosug_ru" />
     </jdk>
     <jdk version="2">
       <name value="Python 2.7 (mosdosug)" />
@@ -560,7 +560,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="/var/deb_smb/workspace/mosdosug" />
     </jdk>
     <jdk version="2">
       <name value="Python 3.7 (belochki)" />
@@ -587,7 +587,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="/var/deb_smb/workspace/belochki" />
     </jdk>
     <jdk version="2">
       <name value="Python 3.7 (gd2)" />
@@ -614,7 +614,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="/var/deb_smb/workspace/gd2" />
     </jdk>
     <jdk version="2">
       <name value="Python 3.7 (gd3)" />
@@ -641,7 +641,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="/var/deb_smb/workspace/gd3" />
     </jdk>
     <jdk version="2">
       <name value="Python 3.7 (gd4)" />
@@ -668,7 +668,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="/var/deb_smb/workspace/gd4" />
     </jdk>
   </component>
 </application>
